@@ -1,0 +1,86 @@
+
+section{
+    background-color: darkslategrey; 
+    box-sizing: border-box;
+    margin: 500px;
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+}
+#cadre{
+    border: 10px;
+}
+div{
+    
+    width: 100%;
+    display:flex;
+}
+
+.signup{
+    width:50% ;
+    height: 50px;
+    color: white;
+    background-color: darkturquoise;
+    
+}
+.login{
+    width: 50%;
+    height: 50px;
+    background-color: darkgray;
+    color: white;
+}
+h1 {
+    color: white;
+    font-size: large;
+    text-align: center;
+    font-weight: 100;
+    border: 50px;
+}
+div{
+    width: 100%;
+    display: flex;
+    
+}
+input[type=firstname] {
+    background-color: darkslategrey;
+    width: 45%;
+    height: 40px;
+    margin-top: 20px;
+    margin-right: 5px;
+    
+    color: white;
+}
+input[type=lastname] {
+    background-color: darkslategrey;
+    width:45%;
+    height: 40px;
+    margin-top: 20px;
+    color: white;
+    margin-left: 5px;
+}
+
+input[type=email] {
+    background-color: darkslategrey;
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
+    color: white;
+}
+input[type=password] {
+    background-color: darkslategrey;
+    width: 100%;
+    height: 50px;
+    color: white;
+    margin-top: 20px;
+}
+input[type=button]{
+    background-color:darkturquoise;
+    width: 100%;
+    height:50px;
+    margin-top: 20px; 
+    color: white;
+    font-size:large
+}
+
+
+    
