@@ -14,13 +14,13 @@
 
 
 
-<img src="./liege.png">
+
 
 
 <body>
     <header>
-
-        <h1>Les villes de Belgique</h1>
+    <img src="./liege.png">
+        <h1 style = color:red; >Les villes de Belgique</h1>
 
     </header>
 
@@ -34,8 +34,8 @@
         </header>
         <section>
 
-            <h3>Topographie</h3>
-            <p>La ville se situe au carrefour de trois zones géographiques naturelles : au nord, la Hesbaye (160 à 200
+            <h3 style ="color:bleu;">Topographie</h3>
+            <p style ="color:grey">La ville se situe au carrefour de trois zones géographiques naturelles : au nord, la Hesbaye (160 à 200
                 m),
                 une des principales zones agricoles de Belgique ; à l’est, le Pays de Herve (200 à 320 m), un paysage
                 plus
@@ -59,4 +59,4 @@
             <p>La superficie de la Ville de Liège est de 6 939 hectares (94e rang des communes de Belgique) occupée à 28
                 %
                 par des zones urbanisées (habitat divers, commerces, bureaux…), à 22 % par des zones non cadastrées
-                (cours
+            
